@@ -1,0 +1,857 @@
+@media (min-width: 279px) and (max-width: 319px){
+  /* css start here */
+  .header-section .navbar-toggler{
+    background: green;
+    border: 1px solid green;
+    border-radius: 0px;
+  }
+  .header-section .navbar-toggler .fa{
+    color: yellow;
+  }
+  .header-section .navbar-nav .nav-item .nav-link{
+    margin: 10px 0px 0px 0px;
+  }
+  .banner{
+    width: 100%;
+  }
+  .banner-content{
+    width: 100%;
+  }
+  .banner-content h1{
+    font-size: 30px;
+    margin-top: -60px;
+    margin-left: 30px;
+  }
+  .banner-content p{
+    padding: 15px 0px;
+    font-size: 10px;
+    margin-left: 20px;
+  }
+  .banner-content .btn-primary{
+    padding: 15px 55px;
+    font-size: 7px;
+    margin-left: 40px;
+  }
+  .chef-section{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .chef-section .title h2{
+    font-size: 35px;
+    margin-top: -25px;
+  }
+  .chef-section .title p {
+    font-size: 10px;
+ }
+ .inner-chef img {
+  width: 35%;
+  border-radius: 50%;
+  margin: -10px 60px;
+}
+.inner-info h3 {
+  font-size: 16px;
+  margin-top: 20px;
+  margin-left: 48px;
+}
+.inner-info h4 {
+  font-size: 14px;
+  margin-left: 90px;
+}
+.shop-section{
+  width: 100%;
+  padding: 40px 0px;
+}
+.burger-img{
+  width: 45%;
+  margin: 0px 60px;
+}
+.shop-text h3 {
+  font-size: 30px;
+  margin-top: -90px;
+}
+.shop-text p{
+  width: 100%;
+  font-size: 9px;
+  margin: 0px;
+}
+.shop-text .btn-primary{
+  font-size: 8px;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+.order-text{
+  width: 100%;
+  padding: 30px 0px;
+}
+.order-text h3{
+  font-size: 30px;
+  margin-top: -90px;
+  margin-left: 40px;
+}
+.order-text p {
+  font-size: 9px;
+  padding: 35px 20px;
+  margin-top: 20px;
+}
+.order-text .btn-primary {
+  padding: 12px 45px;
+  font-size: 7px;
+  margin-left: 40px;
+  margin-top: -40px;
+}
+.burger-img{
+  width: 45%;
+  margin: 0px 60px;
+}
+.stat-section{
+  width: 100%;
+  padding: 40px 0px;
+}
+.stat-section .title h2 {
+  font-size: 30px;
+  margin-top: -40px;
+}
+.stat-section .title p {
+  font-size: 9px;
+}
+
+.stats-box{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  padding: 80px 0px;
+  border: 5px solid #fff;
+  margin-left: 40px;
+  margin-top: 30px;
+}
+.stats-box h3{
+  font-size: 45px;
+  margin: -30px 40px;
+}
+.stats-box p{
+  font-size: 12px;
+  margin: -30px 40px;
+  padding: 20px 0px;
+}
+.package-section{
+  width: 100%;
+  padding: 40px 0px;
+}
+.title h2{
+  font-size: 25px;
+  margin-top: -30px;
+}
+.price-box {
+  width: 95%;
+  padding: 30px 0px;
+  border: 5px solid #aaa;
+  margin: 5px;
+}
+.price-box .pac-img {
+  width: 38%;
+  margin-left: 60px;
+}
+.price-box h4 {
+  font-size: 18px;
+  margin-left: -20px;
+}
+.price-box p {
+  font-size: 12px;
+}
+.price-box .btn-primary {
+  padding: 14px 45px;
+  font-size: 7px;
+  margin-left: 45px;
+  margin-top: 20px;
+}
+.testimonial{
+  width: 100%;
+  padding: 40px 0px;
+}
+.testimonial .title h2 {
+  font-size: 35px;
+  margin-top: -30px;
+}
+.testimonial .title p {
+  font-size: 8px;
+  padding: 10px 0px;
+}
+.testimonial .title h3 {
+  font-size: 19px;
+}
+.footer{
+  width: 100%;
+  padding: 30px 0px;
+}
+.footer-content h3 {
+  font-size: 18px;
+  margin-left: 80px;
+}
+.footer-content p {
+  font-size: 12px;
+  margin-left: 15px;
+}
+.footer-content ul li {
+  font-size: 11px;
+  margin: 0px 80px;
+}
+.copy-text {
+  font-size: 10px;
+  padding: 50px 30px;
+}
+.social-icon {
+  width: 100%;
+  padding: 50px 40px;
+  margin-top: -70px;
+}
+  /* css end here */
+}
+@media (min-width: 320px) and (max-width: 480px){
+   /* css start here */
+   .header-section .navbar-toggler{
+    background: green;
+    border: 1px solid green;
+    border-radius: 0px;
+  }
+  .header-section .navbar-toggler .fa{
+    color: yellow;
+  }
+  .header-section .navbar-nav .nav-item .nav-link{
+    margin: 10px 0px 0px 0px;
+  }
+  .banner{
+    width: 100%;
+  }
+  .banner-content{
+    width: 100%;
+  }
+  .banner-content h1{
+    font-size: 40px;
+    margin-top: -60px;
+    margin-left: 30px;
+  }
+  .banner-content p{
+    padding: 15px 0px;
+    font-size: 13px;
+    margin-left: 20px;
+  }
+  .banner-content .btn-primary{
+    padding: 15px 55px;
+    font-size: 9px;
+    margin-left: 80px;
+  }
+  .chef-section{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .chef-section .title h2{
+    font-size: 40px;
+    margin-top: -25px;
+  }
+  .chef-section .title p {
+    font-size: 12px;
+ }
+ .inner-chef img {
+  width: 35%;
+  border-radius: 50%;
+  margin: -10px 110px;
+}
+.inner-info h3 {
+  font-size: 16px;
+  margin-top: 20px;
+  margin-left: 110px;
+}
+.inner-info h4 {
+  font-size: 14px;
+  margin-left: 140px;
+}
+.shop-section{
+  width: 100%;
+  padding: 40px 0px;
+}
+.burger-img{
+  width: 45%;
+  margin: 0px 90px;
+}
+.shop-text h3 {
+  font-size: 30px;
+  margin-top: -90px;
+}
+.shop-text p{
+  width: 100%;
+  font-size: 12px;
+  margin: 0px;
+}
+.shop-text .btn-primary{
+  font-size: 12px;
+  margin-left: 90px;
+  margin-top: 20px;
+}
+.order-text{
+  width: 100%;
+  padding: 30px 0px;
+}
+.order-text h3{
+  font-size: 30px;
+  margin-top: -90px;
+  margin-left: 90px;
+}
+.order-text p {
+  font-size: 12px;
+  padding: 35px 35px;
+  margin-top: 20px;
+}
+.order-text .btn-primary {
+  padding: 12px 45px;
+  font-size: 10px;
+  margin-left: 90px;
+  margin-top: -40px;
+}
+.burger-img{
+  width: 45%;
+  margin: 0px 90px;
+}
+.stat-section{
+  width: 100%;
+  padding: 40px 0px;
+}
+.stat-section .title h2 {
+  font-size: 35px;
+  margin-top: -40px;
+}
+.stat-section .title p {
+  font-size: 12px;
+}
+
+.stats-box{
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+  padding: 80px 0px;
+  border: 5px solid #fff;
+  margin-left: 80px;
+  margin-top: 30px;
+}
+.stats-box h3{
+  font-size: 45px;
+  margin: -30px 50px;
+}
+.stats-box p{
+  font-size: 12px;
+  margin: -30px 55px;
+  padding: 20px 0px;
+}
+.package-section{
+  width: 100%;
+  padding: 40px 0px;
+}
+.title h2{
+  font-size: 35px;
+  margin-top: -30px;
+}
+.price-box {
+  width: 95%;
+  padding: 30px 0px;
+  border: 12px solid #aaa;
+  margin: 10px;
+}
+.price-box .pac-img {
+  width: 30%;
+  margin-left: 95px;
+}
+.price-box h3 {
+  font-size: 40px;
+  margin-left: -20px;
+}
+.price-box h4 {
+  font-size: 18px;
+  margin-left: -20px;
+}
+.price-box p {
+  font-size: 13px;
+}
+.price-box .btn-primary {
+  padding: 14px 45px;
+  font-size: 10px;
+  margin-left: 75px;
+  margin-top: 20px;
+}
+.testimonial{
+  width: 100%;
+  padding: 40px 0px;
+}
+.testimonial .title h2 {
+  font-size: 35px;
+  margin-top: -30px;
+}
+.testimonial .title p {
+  font-size: 12px;
+  padding: 65px 0px;
+}
+.testimonial .title h3 {
+  font-size: 19px;
+}
+.footer{
+  width: 100%;
+  padding: 30px 0px;
+}
+.footer-content h3 {
+  font-size: 22px;
+  margin-left: 120px;
+}
+.footer-content p {
+  font-size: 12px;
+  margin-left: 75px;
+}
+.footer-content ul li {
+  font-size: 11px;
+  margin: 0px 120px;
+}
+.copy-text {
+  font-size: 14px;
+  padding: 50px 30px;
+}
+.social-icon {
+  width: 100%;
+  padding: 30px 95px;
+  margin-top: -70px;
+}
+
+  /* css end here */
+}
+@media (min-width: 481px) and (max-width: 767px){
+   /* css start here */
+   .header-section .navbar-toggler{
+    background: green;
+    border: 1px solid green;
+    border-radius: 0px;
+  }
+  .header-section .navbar-toggler .fa{
+    color: yellow;
+  }
+  .header-section .navbar-nav .nav-item .nav-link{
+    margin: 10px 0px 0px 0px;
+  }
+  .banner{
+    width: 100%;
+  }
+  .banner-content{
+    width: 100%;
+  }
+  .banner-content h1{
+    font-size: 40px;
+    margin-top: -60px;
+    margin-left: 60px;
+  }
+  .banner-content p{
+    padding: 15px 0px;
+    font-size: 16px;
+    margin-left: 60px;
+  }
+  .banner-content .btn-primary{
+    padding: 15px 55px;
+    font-size: 12px;
+    margin-left: 60px;
+  }
+  .chef-section{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .chef-section .title h2{
+    font-size: 50px;
+    margin-top: -25px;
+  }
+  .chef-section .title p {
+    font-size: 16px;
+ }
+ .inner-chef img {
+  width: 30%;
+  border-radius: 50%;
+  margin: -10px 160px;
+}
+.inner-info h3 {
+  font-size: 25px;
+  margin-top: 20px;
+  margin-left: 150px;
+}
+.inner-info h4 {
+  font-size: 20px;
+  margin-left: 200px;
+}
+.shop-section{
+  width: 100%;
+  padding: 40px 0px;
+}
+.burger-img{
+  width: 38%;
+  margin: 0px 150px;
+}
+.shop-text h3 {
+  font-size: 50px;
+  margin-top: -90px;
+}
+.shop-text p{
+  width: 100%;
+  font-size: 18px;
+  margin: 0px;
+}
+.shop-text .btn-primary{
+  font-size: 12px;
+  margin-left: 150px;
+  margin-top: 20px;
+}
+.order-text{
+  width: 100%;
+  padding: 30px 0px;
+}
+.order-text h3{
+  font-size: 50px;
+  margin-top: -90px;
+  margin-left: 120px;
+}
+.order-text p {
+  font-size: 16px;
+  padding: 35px 45px;
+  margin-top: 20px;
+}
+.order-text .btn-primary {
+  padding: 12px 45px;
+  font-size: 10px;
+  margin-left: 150px;
+  margin-top: -40px;
+}
+.burger-img{
+  width: 38%;
+  margin: 0px 150px;
+}
+.stat-section{
+  width: 100%;
+  padding: 40px 0px;
+}
+.stat-section .title h2 {
+  font-size: 55px;
+  margin-top: -40px;
+}
+.stat-section .title p {
+  font-size: 16px;
+  padding: 20px 20px;
+}
+
+.stats-box{
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+  padding: 80px 0px;
+  border: 5px solid #fff;
+  margin-left: 180px;
+  margin-top: 30px;
+}
+.stats-box h3{
+  font-size: 45px;
+  margin: -30px 50px;
+}
+.stats-box p{
+  font-size: 12px;
+  margin: -30px 55px;
+  padding: 20px 0px;
+}
+.package-section{
+  width: 100%;
+  padding: 40px 0px;
+}
+.title h2{
+  font-size: 35px;
+  margin-top: -30px;
+}
+.price-box {
+  width: 95%;
+  padding: 30px 0px;
+  border: 12px solid #aaa;
+  margin: 10px;
+}
+.price-box .pac-img {
+  width: 20%;
+  margin-left: 165px;
+}
+.price-box h3 {
+  font-size: 40px;
+  margin-left: -20px;
+}
+.price-box h4 {
+  font-size: 18px;
+  margin-left: -40px;
+  padding: 10px 0px;
+}
+.price-box p {
+  font-size: 18px;
+  padding: 10px 0px;
+}
+.price-box .btn-primary {
+  padding: 14px 45px;
+  font-size: 12px;
+  margin-left: 150px;
+  margin-top: 20px;
+}
+.testimonial{
+  width: 100%;
+  padding: 40px 0px;
+}
+.testimonial .title h2 {
+  font-size: 45px;
+  margin-top: -30px;
+}
+.testimonial .title p {
+  font-size: 16px;
+  padding: 45px 0px;
+}
+.testimonial .title h3 {
+  font-size: 25px;
+}
+.footer{
+  width: 100%;
+  padding: 30px 0px;
+}
+.footer-content h3 {
+  font-size: 30px;
+  margin-left: 170px;
+}
+.footer-content p {
+  font-size: 16px;
+  margin-left: 100px;
+}
+.footer-content ul li {
+  font-size: 14px;
+  margin: 0px 170px;
+}
+.copy-text {
+  font-size: 18px;
+  padding: 50px 70px;
+}
+.social-icon {
+  width: 100%;
+  padding: 30px 165px;
+  margin-top: -70px;
+}
+  /* css end here */
+
+}
+@media (min-width: 768px) and (max-width: 1024px){
+   /* css start here */
+   .header-section .navbar-toggler{
+    background: green;
+    border: 1px solid green;
+    border-radius: 0px;
+  }
+  .header-section .navbar-toggler .fa{
+    color: yellow;
+  }
+  .header-section .navbar-nav .nav-item .nav-link{
+    margin: 10px 0px 0px 0px;
+  }
+  .banner{
+    width: 100%;
+  }
+  .banner-content{
+    width: 100%;
+  }
+  .banner-content h1{
+    font-size: 60px;
+    margin-top: -60px;
+    margin-left: 60px;
+  }
+  .banner-content p{
+    padding: 15px 0px;
+    font-size: 22px;
+    margin-left: 60px;
+  }
+  .banner-content .btn-primary{
+    padding: 17px 55px;
+    font-size: 14px;
+    margin-left: 60px;
+  }
+  .chef-section{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .chef-section .title h2{
+    font-size: 60px;
+    margin-top: -25px;
+    padding: 20px 0px;
+  }
+  .chef-section .title p {
+    font-size: 24px;
+ }
+ .inner-chef img {
+  width: 25%;
+  border-radius: 50%;
+  margin: -10px 240px;
+}
+.inner-info h3 {
+  font-size: 35px;
+  margin-top: 20px;
+  margin-left: 200px;
+  padding: 10px 0px;
+}
+.inner-info h4 {
+  font-size: 28px;
+  margin-left: 280px;
+}
+.shop-section{
+  width: 100%;
+  padding: 40px 0px;
+}
+.burger-img{
+  width: 48%;
+  margin: 0px 180px;
+}
+.shop-text h3 {
+  font-size: 70px;
+  margin-top: -90px;
+}
+.shop-text p{
+  width: 100%;
+  font-size: 22px;
+  margin: 0px;
+  padding: 30px 0px;
+}
+.shop-text .btn-primary{
+  padding: 17px 55px;
+  font-size: 14px;
+  margin-left: 200px;
+  margin-top: 20px;
+}
+.order-text{
+  width: 100%;
+  padding: 30px 0px;
+}
+.order-text h3{
+  font-size: 70px;
+  margin-top: -90px;
+  margin-left: 160px;
+  padding: 20px 0px;
+}
+.order-text p {
+  font-size: 25px;
+  padding: 35px 45px;
+  margin-top: 20px;
+}
+.order-text .btn-primary {
+  padding: 17px 55px;
+  font-size: 14px;
+  margin-left: 200px;
+  margin-top: -40px;
+}
+.burger-img{
+  width: 38%;
+  margin: 0px 200px;
+  padding: 20px 0px;
+}
+.stat-section{
+  width: 100%;
+  padding: 40px 0px;
+}
+.stat-section .title h2 {
+  font-size: 75px;
+  margin-top: -40px;
+}
+.stat-section .title p {
+  font-size: 22px;
+  padding: 30px 20px;
+}
+
+.stats-box{
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  padding: 80px 0px;
+  border: 5px solid #fff;
+  margin-left: 180px;
+  margin-top: 30px;
+}
+.stats-box h3{
+  font-size: 85px;
+  margin: 10px 60px;
+}
+.stats-box p{
+  font-size: 18px;
+  margin: 18px 65px;
+  padding: -20px 0px;
+}
+.package-section{
+  width: 100%;
+  padding: 40px 0px;
+}
+.title h2{
+  font-size: 65px;
+  margin-top: -30px;
+}
+.price-box {
+  width: 100%;
+  padding: 30px 0px;
+  border: 12px solid #aaa;
+  margin: 12px;
+}
+.price-box .pac-img {
+  width: 25%;
+  margin-left: 225px;
+}
+.price-box h3 {
+  font-size: 50px;
+  margin-left: -20px;
+}
+.price-box h4 {
+  font-size: 38px;
+  margin-left: -40px;
+  padding: 10px 0px;
+}
+.price-box p {
+  font-size: 28px;
+  padding: 10px 0px;
+}
+.price-box .btn-primary {
+  padding: 17px 55px;
+  font-size: 18px;
+  margin-left: 220px;
+  margin-top: 20px;
+}
+.testimonial{
+  width: 100%;
+  padding: 40px 0px;
+}
+.testimonial .title h2 {
+  font-size: 65px;
+  margin-top: -30px;
+}
+.testimonial .title p {
+  font-size: 22px;
+  padding: 45px 0px;
+}
+.testimonial .title h3 {
+  font-size: 38px;
+}
+.footer{
+  width: 100%;
+  padding: 30px 0px;
+}
+.footer-content h3 {
+  font-size: 50px;
+  margin-left: 220px;
+}
+.footer-content p {
+  font-size: 18px;
+  margin-left: 180px;
+  padding: 30px 0px;
+}
+.footer-content ul li {
+  font-size: 18px;
+  margin: 0px 220px;
+}
+.copy-text {
+  font-size: 18px;
+}
+.social-icon {
+  width: 100%;
+}
+  /* css end here */
+
+}
